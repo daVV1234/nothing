@@ -1,4 +1,5 @@
 https://github.com/matslina/bfoptimization
+https://blog.betamao.me/2019/01/23/Linux%E6%B2%99%E7%AE%B1%E4%B9%8Bseccomp/
 JRS = function() {
     function f2(B, r) {
         for (var t = [], n = null; r--;) n = B % 2,
