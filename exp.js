@@ -1,3 +1,4 @@
+https://github.com/matslina/bfoptimization
 JRS = function() {
     function f2(B, r) {
         for (var t = [], n = null; r--;) n = B % 2,
